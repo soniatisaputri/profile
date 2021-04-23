@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=soniatisaputri.soniatisaputri)
+
 # Hello! :smile:
 I am Sonia, computer science sudent in UPNV Jatim Indonesia and will be graduated in 2022. 
 My favorite programming language is C, Java, and PHP. 
